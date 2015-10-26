@@ -1,0 +1,489 @@
+{
+  "socialEnergy": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "knowledgeEnergy": [
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8"
+  ],
+  "powerEnergy": [
+    "#FF9900",
+    "#FF9900",
+    "#FF9900",
+    "#FF9900"
+  ],
+  "dirtEnergy": [
+    "#904930",
+    "#904930",
+    "#904930",
+    "#904930"
+  ],
+  "spl": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "spl1": [
+    "#FFAA00",
+    "#FFAA00",
+    "#FFAA00",
+    "#FFAA00"
+  ],
+  "pmu": [
+    "#FFAA00",
+    "#FFAA00",
+    "#FFAA00",
+    "#FFAA00"
+  ],
+  "pmu1": [
+    "#FFFF00",
+    "#FFFF00",
+    "#FFFF00",
+    "#FFFF00"
+  ],
+  "fys": [
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF"
+  ],
+  "fys1": [
+    "#FFAAFF",
+    "#FFAAFF",
+    "#FFAAFF",
+    "#FFAAFF"
+  ],
+  "soc": [
+    "#DAFFFF",
+    "#DAFFFF",
+    "#DAFFFF",
+    "#DAFFFF"
+  ],
+  "soc1": [
+    "#00DDFF",
+    "#00DDFF",
+    "#00DDFF",
+    "#00DDFF"
+  ],
+  "paed": [
+    "#F0F9F5",
+    "#F0F9F5",
+    "#F0F9F5",
+    "#F0F9F5"
+  ],
+  "paed1": [
+    "#F0F9F5",
+    "#F0F9F5",
+    "#F0F9F5",
+    "#F0F9F5"
+  ],
+  "div": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "div1": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "diplomS": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "diplomS1": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "diplomL": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "diplomL1": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "teacher": [
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF"
+  ],
+  "teacher1": [
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF"
+  ],
+  "researcher": [
+    "#32FFFB",
+    "#32FFFB",
+    "#32FFFB",
+    "#32FFFB"
+  ],
+  "researcher1": [
+    "#32FFFB",
+    "#32FFFB",
+    "#32FFFB",
+    "#32FFFB"
+  ],
+  "janitor": [
+    "#7B5647",
+    "#7B5647",
+    "#7B5647",
+    "#7B5647"
+  ],
+  "janitor1": [
+    "#7B5647",
+    "#7B5647",
+    "#7B5647",
+    "#7B5647"
+  ],
+  "cook": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "cook1": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "admin": [
+    "#0A0B12",
+    "#0A0B12",
+    "#0A0B12",
+    "#0A0B12"
+  ],
+  "admin1": [
+    "#1A2646",
+    "#1A2646",
+    "#1A2646",
+    "#1A2646"
+  ],
+  "unknown": [
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF"
+  ],
+  "unknown1": [
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF"
+  ],
+  "other": [
+    "#999999",
+    "#999999",
+    "#999999",
+    "#999999"
+  ],
+  "othercenterColor": [
+    "#999999",
+    "#999999",
+    "#999999",
+    "#999999"
+  ],
+  "otheredgeColor": [
+    "#999999",
+    "#999999",
+    "#999999",
+    "#999999"
+  ],
+  "classroom": [
+    "#949494",
+    "#949494",
+    "#949494",
+    "#949494"
+  ],
+  "classroomcenterColor": [
+    "#9C9C9C",
+    "#9C9C9C",
+    "#9C9C9C",
+    "#9C9C9C"
+  ],
+  "classroomedgeColor": [
+    "#999999",
+    "#999999",
+    "#999999",
+    "#999999"
+  ],
+  "toilet": [
+    "#252F35",
+    "#252F35",
+    "#252F35",
+    "#252F35"
+  ],
+  "toiletcenterColor": [
+    "#110F17",
+    "#110F17",
+    "#110F17",
+    "#110F17"
+  ],
+  "toiletedgeColor": [
+    "#85A6AF",
+    "#85A6AF",
+    "#85A6AF",
+    "#85A6AF"
+  ],
+  "research": [
+    "#0C6150",
+    "#0C6150",
+    "#0C6150",
+    "#0C6150"
+  ],
+  "researcenterColor": [
+    "#02120D",
+    "#02120D",
+    "#02120D",
+    "#02120D"
+  ],
+  "researedgeColor": [
+    "#191919",
+    "#191919",
+    "#191919",
+    "#191919"
+  ],
+  "knowledge": [
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8"
+  ],
+  "knowledgeenterColor": [
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8"
+  ],
+  "knowleedgeColor": [
+    "#86C74A",
+    "#86C74A",
+    "#86C74A",
+    "#86C74A"
+  ],
+  "teachers": [
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF"
+  ],
+  "teacherscenterColor": [
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF"
+  ],
+  "teachersedgeColor": [
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF",
+    "#FF00FF"
+  ], 
+  "admins": [
+    "#1A2646",
+    "#1A2646",
+    "#1A2646",
+    "#1A2646"
+  ],
+
+  "admincenterColor": [
+    "#0A0B12",
+    "#0A0B12",
+    "#0A0B12",
+    "#0A0B12"
+  ],
+  "adminedgeColor": [
+    "#FF9900",
+    "#FF9900",
+    "#FF9900",
+    "#FF9900"
+  ],
+  "closet": [
+    "#313131",
+    "#313131",
+    "#313131",
+    "#313131"
+  ],
+  "closetcenterColor": [
+    "#2E1100",
+    "#2E1100",
+    "#2E1100",
+    "#2E1100"
+  ],
+  "closetedgeColor": [
+    "#923B00",
+    "#923B00",
+    "#923B00",
+    "#923B00"
+  ],
+  "food": [
+    "#2B2A1B",
+    "#2B2A1B",
+    "#2B2A1B",
+    "#2B2A1B"
+  ],
+  "foodcenterColor": [
+    "#050301",
+    "#050301",
+    "#050301",
+    "#050301"
+  ],
+  "foodedgeColor": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "exit": [
+    "#252525",
+    "#252525",
+    "#252525",
+    "#252525"
+  ],
+  "exitcenterColor": [
+    "#000000",
+    "#000000",
+    "#000000",
+    "#000000"
+  ],
+  "exitedgeColor": [
+    "#191919",
+    "#191919",
+    "#191919",
+    "#191919"
+  ],
+  "empty": [
+    "#000000",
+    "#000000",
+    "#000000",
+    "#000000"
+  ],
+  "emptycenterColor": [
+    "#000000",
+    "#000000",
+    "#000000",
+    "#000000"
+  ],
+  "emptyedgeColor": [
+    "#000000",
+    "#000000",
+    "#000000",
+    "#000000"
+  ],
+  "cell": [
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9"
+  ],
+  "cellcenterColor": [
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8"
+  ],
+  "celledgeColor": [
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF"
+  ],
+  "socialBlob": [
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9"
+  ],
+  "socialcenterColor": [
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8"
+  ],
+  "socialedgeColor": [
+    "#FF0000",
+    "#FF0000",
+    "#FF0000",
+    "#FF0000"
+  ],
+  "knowledgeBlob": [
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9"
+  ],
+  "knowledgeBcenterColor": [
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9"
+  ],
+  "knowledgeBedgeColor": [
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9"
+  ],
+  "powerBlob": [
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9",
+    "#D9D9D9"
+  ],
+  "powerBcenterColor": [
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8",
+    "#D8D8D8"
+  ],
+  "powerBedgeColor": [
+    "#FF9900",
+    "#FF9900",
+    "#FF9900",
+    "#FF9900"
+  ],
+  "bgColor": [
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF"
+  ],
+  "membraneColor": [
+    "#DDDDDD",
+    "#DDDDDD",
+    "#DDDDDD",
+    "#DDDDDD"
+  ],
+  "agentLineColor": [
+    "#000000",
+    "#000000",
+    "#000000",
+    "#000000"
+  ],
+  "agentFillColor": [
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF"
+  ]
+}
